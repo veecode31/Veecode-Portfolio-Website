@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          BCA graduate with a strong foundation in Python backend development, REST API design, and database-driven applications. Experienced building real-world projects using Flask, FastAPI, and MongoDB. Skilled in web automation, scripting, and third-party API integration. Seeking an entry-level Python Developer or Backend Developer role.
         </p>
       </div>
     </div>
